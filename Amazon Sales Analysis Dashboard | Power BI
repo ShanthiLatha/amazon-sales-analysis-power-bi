@@ -1,0 +1,37 @@
+# Amazon Sales Analysis Dashboard | Power BI
+
+## Project Overview
+This project focuses on analyzing Amazon sales data using Power BI to understand sales performance, product categories, customer purchasing patterns, and revenue trends.
+
+## Tools Used
+- Microsoft Power BI
+- Microsoft Excel
+
+## Project Objectives
+- Analyze sales and revenue performance.
+- Explore product categories and sales distribution.
+- Identify top-performing products.
+- Track sales trends and key performance indicators.
+- Present business insights through an interactive dashboard.
+
+## Project Workflow
+1. Reviewed and prepared the dataset.
+2. Cleaned and transformed data, if required.
+3. Created charts, visualizations, and KPIs.
+4. Designed an interactive Power BI dashboard.
+5. Analyzed the results to identify useful business insights.
+
+## Key Insights
+- Analyzed sales performance across product categories.
+- Explored revenue patterns and product trends.
+- Identified important sales metrics from the dashboard.
+
+*Update these insights to match your actual dashboard.*
+
+## Files Included
+- `Amazon_Sales_Dashboard.pbix` — Power BI dashboard.
+- `Amazon_Sales_Data.xlsx` — Excel dataset, if included.
+- `dashboard_screenshot.png` — Dashboard preview, if included.
+
+## Skills Demonstrated
+Power BI | Excel | Data Cleaning | Data Visualization | Business Data Analysis
